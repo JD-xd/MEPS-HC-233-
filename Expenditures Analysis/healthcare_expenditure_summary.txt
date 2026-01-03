@@ -1,0 +1,28 @@
+Healthcare Expenditure Summary
+
+Average annual healthcare spending per person: $7,710.65 - Much higher
+than the median due to a small group of high-cost patients.
+
+Median annual healthcare spending per person: $1,504.50 - Reflects what
+a typical person actually spends.
+
+Spending Distribution - Zero Spending: 14.8% - Low Spending (< $1,000):
+28.7% - Moderate ($1k–$10k): 38.9% - High-Cost (≥ $10k): 17.6% - 5–10%
+of individuals drive over 50% of total healthcare costs.
+
+Category-Wise Spending (Expected vs Observed Example Data) - Hospital
+Care: 0.3% (Typical: 30–40%) - Prescriptions: 0.1% (Typical: 15–25%) -
+Office Visits: 0.1% (Typical: 20–30%) Observed values appear lower due
+to possible unweighted data.
+
+Emergency Room (ER) Expenditure - Average ER expenditure per person:
+$0.19 - Median ER expenditure per person: $0.00 - People with zero ER
+spending: 86.6%
+
+Average ER Expenditure by Income Group - Near Poor: 0.3008 - Poor:
+0.2803 - Low Income: 0.2333 - Middle Income: 0.1825 - High Income:
+0.1240
+
+Insights - Most people do not use ER services. - Poor & Near-Poor groups
+rely more on ER care. - High-income groups depend more on preventive or
+office-based care.
